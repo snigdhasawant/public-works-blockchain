@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+cache/
+artifacts/*
+!artifacts/contract_abi.json
+.env
+__pycache__/
+*.pyc

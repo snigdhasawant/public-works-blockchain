@@ -1,8 +1,10 @@
 node_modules/
 .venv/
+venv/
 cache/
 artifacts/*
-!artifacts/contract_abi.json
+!artifacts/contracts_PublicWorks_sol_PublicWorks.abi
 .env
 __pycache__/
 *.pyc
+*.bin
